@@ -1,10 +1,10 @@
-# 基于springboot的单科成绩管理系统
+# 基于springboot的单科成绩管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**成绩1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**成绩**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -30,25 +30,17 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121057938.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208121057938.jpg)
 
 ### 4.2学生 模块
 
-![学生成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121058254.jpg)
+![学生成绩](https://www.codeshop.fun/Typora-Images/202208121058254.jpg)
 
 ### 4.3 教师模块
 
-![教师-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121058129.jpg)
+![教师-学生管理](https://www.codeshop.fun/Typora-Images/202208121058129.jpg)
 
-![教师-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121058409.jpg)
+![教师-成绩管理](https://www.codeshop.fun/Typora-Images/202208121058409.jpg)
 
-![教师-学生总成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121058530.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**成绩1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![教师-学生总成绩](https://www.codeshop.fun/Typora-Images/202208121058530.jpg)
 
